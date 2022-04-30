@@ -1,0 +1,28 @@
+package model;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+
+
+public class MemberDAO {
+	String url="jdbc:oracle:thin:@localhost:1521:XE";
+	String id="scott";
+	String pass="tiger";
+	
+	Connection conn=null;
+	PreparedStatement pstmt=null;
+	ResultSet rs=null;
+	
+	public void getcon() {
+	try {
+		Class.forName("oracle.jdbc.driver.OracleDriver");
+		conn=DriverManager.getConnection(url,id,pass);		//connection만 만들어놓은 것. pstmt랑 rs는 따로 처리하겠다는 뜻.
+	}catch(Exception e) {
+		e.printStackTrace();
+		}
+	
+	}
+	
+}

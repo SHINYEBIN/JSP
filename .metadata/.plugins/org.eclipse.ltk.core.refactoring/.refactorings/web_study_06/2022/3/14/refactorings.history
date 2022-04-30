@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;MemberBean.java&apos; to &apos;web_study_07/src/com.saeyan.javabeans&apos;&#x0D;&#x0A;- Original project: &apos;web_study_06&apos;&#x0D;&#x0A;- Destination element: &apos;web_study_07/src/com.saeyan.javabeans&apos;&#x0D;&#x0A;- Original element: &apos;com.saeyan.javabeans.MemberBean.java&apos;" description="Copy compilation unit" destination="=web_study_07/src&lt;com.saeyan.javabeans" element1="/src&lt;com.saeyan.javabeans{MemberBean.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1648534362621" units="1" version="1.0"/>
+</session>

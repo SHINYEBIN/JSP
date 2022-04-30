@@ -1,0 +1,19 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<c:set var="age" value="30"></c:set>
+나이:<c:out value="10"></c:out><br>
+나이:<c:out value="${age}"></c:out>
+
+<c:set var="age">
+	300
+</c:set>
+나이:<c:out value="${age}"></c:out>
+</body>
+</html>

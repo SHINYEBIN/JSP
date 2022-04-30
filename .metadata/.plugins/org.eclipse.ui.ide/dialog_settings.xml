@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\Java Emp Class Lecture 2021-12-27\JSP Emp Class Lecture\JSP Workspace Lecture\web_study_03"/>
+			<item value="D:\Java Emp Class Lecture 2021-12-27\JSP Emp Class Lecture\JSP Workspace Lecture\web_study_02"/>
+			<item value="D:\Java Emp Class Lecture 2021-12-27\JSP Emp Class Lecture\JSP Workspace Lecture\web_study_01"/>
+		</list>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Java Emp Class Lecture 2021-12-27\JSP Emp Class Lecture\JSP Workspace Lecture\web_study_13_board"/>
+			<item value="C:\Java Emp Class Lecture 2021-12-27\JSP Emp Class Lecture\JSP Workspace Lecture\web_study_12_mission1"/>
+			<item value="C:\Java Emp Class Lecture 2021-12-27\JSP Emp Class Lecture\JSP Workspace Lecture\web_study_12_mission"/>
+			<item value="C:\Java Emp Class Lecture 2021-12-27\JSP Emp Class Lecture\JSP Workspace Lecture\web_study_12_imsi"/>
+			<item value="C:\Java Emp Class Lecture 2021-12-27\JSP Emp Class Lecture\JSP Workspace Lecture\web_study_12"/>
+			<item value="C:\Java Emp Class Lecture 2021-12-27\JSP Emp Class Lecture\JSP Workspace Lecture\web_study_11_sung"/>
+			<item value="C:\Java Emp Class Lecture 2021-12-27\JSP Emp Class Lecture\JSP Workspace Lecture\web_study_11"/>
+			<item value="C:\Java Emp Class Lecture 2021-12-27\JSP Emp Class Lecture\JSP Workspace Lecture\web_study_10_imsi"/>
+			<item value="C:\Java Emp Class Lecture 2021-12-27\JSP Emp Class Lecture\JSP Workspace Lecture\web_study_10"/>
+			<item value="D:\Java Emp Class Lecture 2021-12-27\JSP Emp Class Lecture\JSP Workspace Lecture\web_study_08"/>
+			<item value="D:\Java Emp Class Lecture 2021-12-27\JSP Emp Class Lecture\JSP Workspace Lecture\web_study_07_jdbc"/>
+			<item value="D:\Java Emp Class Lecture 2021-12-27\JSP Emp Class Lecture\JSP Workspace Lecture\web_study_07"/>
+			<item value="C:\Java Emp Class Lecutre 2021-12-27\JSP Emp Class Lecture\JSP Workspace Lecture\web_study_07"/>
+			<item value="C:\Java Emp Class Lecutre 2021-12-27\JSP Emp Class Lecture\JSP Workspace Lecture\web_study_06"/>
+			<item value="D:\Java Emp Class Lecture 2021-12-27\JSP Emp Class Lecture\JSP Workspace Lecture\web_study_03"/>
+			<item value="D:\Java Emp Class Lecture 2021-12-27\JSP Emp Class Lecture\JSP Workspace Lecture\web_study_02"/>
+			<item value="D:\Java Emp Class Lecture 2021-12-27\JSP Emp Class Lecture\JSP Workspace Lecture\web_study_01"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+			<item value="C:\Java Emp Class Lecutre 2021-12-27\JSP Emp Class Lecture\JSP Workspace Lecture\web_study_05\WebContent\ex01_boardWriteForm.html"/>
+			<item value="D:\Java Emp Class Lecture 2021-12-27\JSP Emp Class Lecture\JSP Workspace Lecture\web_study_01\WebContent\03_sum.jsp"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+</section>

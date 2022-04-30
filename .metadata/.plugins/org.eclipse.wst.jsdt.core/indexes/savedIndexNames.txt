@@ -1,0 +1,26 @@
+INDEX VERSION 1.4+C:\Java Emp Class Lecture 2021-12-27\JSP Emp Class Lecture\JSP Workspace Lecture\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4184001190.index
+1728470789.index
+1617664796.index
+2115857988.index
+152723154.index
+3535888302.index
+2299018793.index
+3876863998.index
+1386771827.index
+2389047856.index
+2897322750.index
+3819707233.index
+4262399679.index
+1776146231.index
+3003733521.index
+417702625.index
+187080124.index
+526439544.index
+1162706020.index
+1381407680.index
+2006987372.index
+1202851856.index
+517662625.index
+392997770.index
+418020252.index

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<h1>Core Tag2</h1>
+	<form action="09_requestresult.jsp" method="post">
+	성명:<input type="text" name="name"><br>
+	학번:<input type="text" name="studentNum"><br>
+	성별:남자<input type="radio" name="sex" value="남자" checked>
+	여자<input type="radio" name="sex" value="여자" checked>
+	</form>
+</body>
+</html>
